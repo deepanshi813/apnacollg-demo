@@ -1,2 +1,2 @@
 # apnacollg-demo
-This is my second demo repository
+This is my second demo repository.
